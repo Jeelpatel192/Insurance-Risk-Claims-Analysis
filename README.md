@@ -73,7 +73,7 @@ The main objectives of the analysis include:
 ---
 
 ## 📈 Results
-![Insurance Risk and Claims Dashboard]([https://github.com/your-repo-link/insurance-claim-dashboard-screenshot.png](https://github.com/Jeelpatel192/Insurance-Risk-Claims-Analysis/blob/main/Insurance%20Risk%20%26%20Claim%20Analysis.png))  
+![Insurance Risk and Claims Dashboard](https://github.com/Jeelpatel192/Insurance-Risk-Claims-Analysis/blob/main/Insurance_Risk_Claim_Analysis.png)  
 
 ---
 
